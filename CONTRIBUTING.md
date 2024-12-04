@@ -12,7 +12,7 @@ Siga os passos abaixo para obter uma cópia do projeto:
 **Instale as dependencias**
   - npm install requirements
 
-**Contribuindo**
+## **Contribuindo**
   Contribuições são bem-vindas! Para colaborar, siga estas etapas:
   - Crie um fork do repositório.
   - Faça suas alterações em uma nova branch:
