@@ -1,0 +1,3 @@
+Recomendo utilizar o MySQL
+Workbench e criar diagramas. Deve
+salvar o arquivo nesta pasta

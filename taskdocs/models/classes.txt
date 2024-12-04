@@ -1,0 +1,4 @@
+Diagramas de classes, pode usar
+qualquer aplicação, como o Astah,
+StarUML ou semelhantes, deve salvar
+o arquivo nesta pasta
