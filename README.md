@@ -24,7 +24,7 @@ Siga os passos abaixo para obter uma cópia do projeto:
   - npm install requirements
 
     
-**Contribuindo**
+## **Contribuindo**
   Contribuições são bem-vindas! Para colaborar, siga estas etapas:
   - Crie um fork do repositório.
   - Faça suas alterações em uma nova branch:
@@ -32,7 +32,7 @@ Siga os passos abaixo para obter uma cópia do projeto:
   - Após o envio do PR, notifique um dos integrantes da equipe para revisão e aprovação.
 
 
-**Autores**
+## **Autores**
   Este projeto foi desenvolvido por:
   - Elvio do Nascimento Vieira Júnior
   - João Victor de Lima Boudoux
@@ -42,5 +42,5 @@ Siga os passos abaixo para obter uma cópia do projeto:
   - Eduardo Henrique Souto Rosendo
 
 
-**Licença**
+## **Licença**
   Este projeto está licenciado sob a Creative Commons Zero v1.0 Universal. Para mais informações, consulte o arquivo de licença do repositório.
